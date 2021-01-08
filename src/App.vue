@@ -8,6 +8,8 @@
 		<component :is="componente"/>
 		</keep-alive>
 		
+		scri
+		
 	</div>
 </template>
 
